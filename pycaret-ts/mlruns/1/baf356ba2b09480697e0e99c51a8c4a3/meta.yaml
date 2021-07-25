@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Swami/mlruns/1/baf356ba2b09480697e0e99c51a8c4a3/artifacts
+end_time: 1626351788299
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: baf356ba2b09480697e0e99c51a8c4a3
+run_uuid: baf356ba2b09480697e0e99c51a8c4a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626351787916
+status: 3
+tags: []
+user_id: Swami

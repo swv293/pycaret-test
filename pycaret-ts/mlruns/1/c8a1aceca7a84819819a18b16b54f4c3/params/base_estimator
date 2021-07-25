@@ -1,0 +1,3 @@
+LinearDiscriminantAnalysis(n_components=None, priors=None,
+                           shrinkage='empirical', solver='lsqr',
+                           store_covariance=False, tol=0.0001)
